@@ -20,6 +20,7 @@ public class Scenario_Cart extends Base{
 		Log = Logger.getLogger(Scenario_Cart.class);		
 		startTest = eReports.startTest(hm.get("TC_ID") + "_" + hm.get("Order"));
 		startTest.assignCategory(browser_type);
+		System.out.println("latest build");
 //	create Page factor object for every class
 		
 		Pf_HomePage home = new Pf_HomePage(ff);
