@@ -1,0 +1,5 @@
+[INFO] 2017-06-10 15:25:34,101 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-10 15:25:36,629 scripts.Scenario_Cart cvContains - Passed the StepLogin page title Validation
+[ERROR] 2017-06-10 15:25:37,611 scripts.Scenario_Cart cvContains - Failed the Step Home page title Validation as Actual is rediff.com ! books online and expected was online bookstore
+[INFO] 2017-06-10 15:25:43,494 scripts.Scenario_Cart cvContains - Passed the StepProduct details page title Validation
+[ERROR] 2017-06-10 15:25:44,071 scripts.Scenario_Cart cvContains - Failed the Step Product details page title Validation as Actual is flood and fire | book by janet elaine smith | best price in india | 9781935188513 and expected was shopping

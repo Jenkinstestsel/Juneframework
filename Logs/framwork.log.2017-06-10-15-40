@@ -1,0 +1,7 @@
+[INFO] 2017-06-10 15:40:37,222 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-10 15:40:38,641 scripts.Scenario_Cart cvContains - Passed the StepLogin page title Validation
+[INFO] 2017-06-10 15:40:40,389 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-10 15:40:47,816 scripts.Scenario_Search cvContains - Passed the StepHome page Title
+[ERROR] 2017-06-10 15:40:50,219 scripts.Scenario_Search cvEquals - Failed the Step Search count validation as Actual is 497 and expected was 234.0
+[INFO] 2017-06-10 15:40:56,134 scripts.Scenario_Search cvContains - Passed the StepHome page Title
+[ERROR] 2017-06-10 15:40:58,552 scripts.Scenario_Search cvEquals - Failed the Step Search count validation as Actual is  and expected was 23.0

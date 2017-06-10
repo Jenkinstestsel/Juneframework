@@ -1,0 +1,11 @@
+[INFO] 2017-06-10 15:54:11,343 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-10 15:54:12,416 scripts.Scenario_Cart cvContains - Passed the StepLogin page title Validation
+[INFO] 2017-06-10 15:54:14,155 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-10 15:54:29,008 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-10 15:54:30,962 scripts.Scenario_Cart cvContains - Passed the StepLogin page title Validation
+[INFO] 2017-06-10 15:54:32,422 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-10 15:54:36,154 scripts.Scenario_Cart cvContains - Passed the StepProduct details page title Validation
+[INFO] 2017-06-10 15:54:38,721 scripts.Scenario_Cart cvContains - Passed the StepProduct details page title Validation
+[INFO] 2017-06-10 15:54:38,829 scripts.Scenario_Cart cvContains - Passed the StepAdd book to cart validation
+[INFO] 2017-06-10 15:54:46,852 scripts.Scenario_Search cvContains - Passed the StepHome page Title
+[ERROR] 2017-06-10 15:54:49,337 scripts.Scenario_Search cvEquals - Failed the Step Search count validation as Actual is 497 and expected was 234.0

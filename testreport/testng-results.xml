@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="55266" started-at="2017-06-10T17:03:16Z" finished-at="2017-06-10T17:04:11Z">
+    <groups>
+      <group name="qa">
+        <method signature="scripts.Scenario_Cart.addbook(java.util.Map)" name="addbook" class="scripts.Scenario_Cart"/>
+        <method signature="scripts.Scenario_Search.validsearch(java.util.Map)" name="validsearch" class="scripts.Scenario_Search"/>
+      </group>
+      <group name="prod">
+        <method signature="scripts.Scenario_Search.validsearch(java.util.Map)" name="validsearch" class="scripts.Scenario_Search"/>
+      </group>
+      <group name="uat">
+        <method signature="scripts.Scenario_Search.validsearch(java.util.Map)" name="validsearch" class="scripts.Scenario_Search"/>
+      </group>
+    </groups>
+    <test name="Test" duration-ms="55266" started-at="2017-06-10T17:03:16Z" finished-at="2017-06-10T17:04:11Z">
+      <class name="scripts.Scenario_Search">
+        <test-method status="PASS" signature="launchApp(java.lang.String)" name="launchApp" is-config="true" duration-ms="6109" started-at="2017-06-10T17:03:35Z" finished-at="2017-06-10T17:03:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="validsearch(java.util.Map)" name="validsearch" duration-ms="4539" started-at="2017-06-10T17:03:42Z" finished-at="2017-06-10T17:03:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Order=1.0, Script=validsearch, searchoptions=Ways, TC_ID=GB_09, Execute=Y, expected=234.0}]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)" name="tearDown" is-config="true" duration-ms="1901" started-at="2017-06-10T17:03:46Z" finished-at="2017-06-10T17:03:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult: validsearch STATUS:SUCCESS METHOD:scripts.Scenario_Search.validsearch(java.util.Map)]
+]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="launchApp(java.lang.String)" name="launchApp" is-config="true" duration-ms="6625" started-at="2017-06-10T17:03:48Z" finished-at="2017-06-10T17:03:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="validsearch(java.util.Map)" name="validsearch" duration-ms="3777" started-at="2017-06-10T17:03:55Z" finished-at="2017-06-10T17:03:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Order=1.0, Script=validsearch, searchoptions=chandler, TC_ID=GB_10, Execute=Y, expected=23.0}]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)" name="tearDown" is-config="true" duration-ms="1815" started-at="2017-06-10T17:03:58Z" finished-at="2017-06-10T17:04:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult: validsearch STATUS:SUCCESS METHOD:scripts.Scenario_Search.validsearch(java.util.Map)]
+]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="launchApp(java.lang.String)" name="launchApp" is-config="true" duration-ms="6887" started-at="2017-06-10T17:04:00Z" finished-at="2017-06-10T17:04:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="validsearch(java.util.Map)" name="validsearch" duration-ms="2572" started-at="2017-06-10T17:04:07Z" finished-at="2017-06-10T17:04:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Order=1.0, Script=validsearch, searchoptions=Jaico, TC_ID=GB_11, Execute=Y, expected=34.0}]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)" name="tearDown" is-config="true" duration-ms="1174" started-at="2017-06-10T17:04:10Z" finished-at="2017-06-10T17:04:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult: validsearch STATUS:SUCCESS METHOD:scripts.Scenario_Search.validsearch(java.util.Map)]
+]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+      </class>
+      <class name="scripts.Scenario_Cart">
+        <test-method status="PASS" signature="prerequisite()" name="prerequisite" is-config="true" duration-ms="296" started-at="2017-06-10T17:03:15Z" finished-at="2017-06-10T17:03:16Z">
+        </test-method>
+        <test-method status="PASS" signature="launchApp(java.lang.String)" name="launchApp" is-config="true" duration-ms="8067" started-at="2017-06-10T17:03:16Z" finished-at="2017-06-10T17:03:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="addbook(java.util.Map)" name="addbook" duration-ms="9275" started-at="2017-06-10T17:03:24Z" finished-at="2017-06-10T17:03:34Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{Order=1.0, Script=addbook, TC_ID=GB_12, Execute=Y, Username=qtpworld2008@gmail.com, searchbook=flood and fire, Password=learn123}]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="tearDown(org.testng.ITestResult)" name="tearDown" is-config="true" duration-ms="1725" started-at="2017-06-10T17:03:34Z" finished-at="2017-06-10T17:03:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult: addbook STATUS:SUCCESS METHOD:scripts.Scenario_Cart.addbook(java.util.Map)]
+]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

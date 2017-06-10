@@ -1,0 +1,2 @@
+[INFO] 2017-06-09 10:47:52,303 scripts.Scenario_Search cvContains - Passed the StepHome page Title
+[INFO] 2017-06-09 10:47:53,880 scripts.Scenario_Search cvEquals - Passed the StepInvalid Search  validation

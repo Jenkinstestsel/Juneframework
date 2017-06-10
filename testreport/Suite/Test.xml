@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DELL-PC" name="scripts.Scenario_Cart" tests="4" failures="0" timestamp="10 Jun 2017 11:34:11 GMT" time="55.266" errors="0">
+  <testcase name="addbook" time="9.275" classname="scripts.Scenario_Cart"/>
+  <testcase name="validsearch" time="4.539" classname="scripts.Scenario_Search"/>
+  <testcase name="validsearch" time="3.777" classname="scripts.Scenario_Search"/>
+  <testcase name="validsearch" time="2.572" classname="scripts.Scenario_Search"/>
+</testsuite>

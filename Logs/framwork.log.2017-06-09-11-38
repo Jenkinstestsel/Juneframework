@@ -1,0 +1,11 @@
+[ERROR] 2017-06-09 11:38:00,026 scripts.Scenario_Search cvEquals - Failed the Step Search count validation as Actual is 439 and expected was 23.0
+[INFO] 2017-06-09 11:38:04,999 scripts.Scenario_Search cvContains - Passed the StepHome page Title
+[ERROR] 2017-06-09 11:38:06,202 scripts.Scenario_Search cvEquals - Failed the Step Search count validation as Actual is 439 and expected was 23.0
+[INFO] 2017-06-09 11:38:12,919 scripts.Scenario_Search cvContains - Passed the StepHome page Title
+[ERROR] 2017-06-09 11:38:14,381 scripts.Scenario_Search cvEquals - Failed the Step Search count validation as Actual is 2 and expected was 34.0
+[INFO] 2017-06-09 11:38:18,300 scripts.Scenario_Search cvContains - Passed the StepHome page Title
+[ERROR] 2017-06-09 11:38:19,608 scripts.Scenario_Search cvEquals - Failed the Step Search count validation as Actual is 2 and expected was 34.0
+[INFO] 2017-06-09 11:38:23,713 scripts.Scenario_Search cvContains - Passed the StepHome page Title
+[INFO] 2017-06-09 11:38:25,070 scripts.Scenario_Search cvEquals - Passed the StepInvalid Search  validation
+[INFO] 2017-06-09 11:38:30,402 scripts.Scenario_Search cvContains - Passed the StepHome page Title
+[INFO] 2017-06-09 11:38:32,442 scripts.Scenario_Search cvEquals - Passed the StepInvalid Search  validation

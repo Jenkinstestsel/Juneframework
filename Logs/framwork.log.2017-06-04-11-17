@@ -1,0 +1,7 @@
+[ERROR] 2017-06-04 11:17:15,599 scripts.Scenario_Search invalidsearch - Failed Home Page title Validation as Actual buy books online | online bookstore india | online book shopping | free shipping across india and expected is rediff
+[INFO] 2017-06-04 11:17:17,392 scripts.Scenario_Search invalidsearch - Invalid Search  validated
+[ERROR] 2017-06-04 11:17:24,050 scripts.Scenario_Search validsearch - Failed Home Page title Validation as Actual buy books online | online bookstore india | online book shopping | free shipping across india and expected is rediff
+[ERROR] 2017-06-04 11:17:26,047 scripts.Scenario_Search validsearch - Failed Search count validated as Actual 497 and expected is 234.0
+[ERROR] 2017-06-04 11:17:34,388 scripts.Scenario_Search validsearch - Failed Home Page title Validation as Actual buy books online | online bookstore india | online book shopping | free shipping across india and expected is rediff
+[ERROR] 2017-06-04 11:17:51,864 scripts.Scenario_Search validsearch - Failed Home Page title Validation as Actual buy books online | online bookstore india | online book shopping | free shipping across india and expected is rediff
+[ERROR] 2017-06-04 11:17:52,921 scripts.Scenario_Search validsearch - Failed Search count validated as Actual 2 and expected is 34.0

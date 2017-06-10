@@ -1,0 +1,5 @@
+[INFO] 2017-06-04 13:46:05,353 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[ERROR] 2017-06-04 13:46:06,793 scripts.Scenario_Cart cvContains - Failed the Step Login page title Validation as Actual is rediff.com ! books online and expected was Books Online
+[INFO] 2017-06-04 13:46:08,515 scripts.Scenario_Cart cvContains - Passed the StepHome page title Validation
+[INFO] 2017-06-04 13:46:11,654 scripts.Scenario_Cart cvContains - Passed the StepProduct details page title Validation
+[INFO] 2017-06-04 13:46:13,787 scripts.Scenario_Cart cvContains - Passed the StepProduct details page title Validation
