@@ -24,6 +24,9 @@ public class Scenario_Search extends Base{
 		startTest.assignCategory(browser_type);
 		System.out.println("hi");
 
+		System.out.println("hi1");
+
+
 		System.out.println("hi5");
 
 		System.out.println("hi7");
