@@ -23,7 +23,11 @@ public class Scenario_Search extends Base{
 		startTest = eReports.startTest(hm.get("TC_ID") + "_" + hm.get("Order"));
 		startTest.assignCategory(browser_type);
 		System.out.println("hi");
+
+		System.out.println("hi5");
+
 		System.out.println("hi7");
+
 //		if(ff.getTitle().toLowerCase().contains("rediff")){
 //			Log.info("Home page title successfully validated");
 //			startTest.log(LogStatus.PASS, "Home page Title","Passed theHome page Title ");
